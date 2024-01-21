@@ -15,6 +15,7 @@ body {
 body {
   background-color: hsl(0, 0%, 8%);
   font-family: "Inter", sans-serif;
+  overflow: hidden;
 }
 
 .container {
