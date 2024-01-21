@@ -89,13 +89,21 @@ body {
   color: hsl(0, 0%, 12%);
 }
 
-.attribution {
+.social-icon {
+  margin-right: 5px;
+}
+
+.attribute {
   color: white;
   font-size: 15px;
   margin: 20px;
+  font-size: 16px;
+  text-align: center;
 }
 
-.attribution a {
+.attribute a {
   text-decoration: none;
-  color: hsl(75, 94%, 57%);
+  color: hsl(228, 45%, 44%);
+  font-weight: bold;
+  font-style: italic;
 }
