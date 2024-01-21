@@ -6,14 +6,15 @@
   padding: 0;
 }
 
-body,
-html {
+html,
+body {
   height: 100%;
   width: 100%;
 }
 
 body {
   background-color: hsl(0, 0%, 8%);
+  font-family: "Inter", sans-serif;
 }
 
 .container {
@@ -31,7 +32,6 @@ body {
   justify-content: center;
   background-color: hsl(0, 0%, 12%);
   color: white;
-  font-family: "Inter", sans-serif;
   height: 575px;
   width: 400px;
   border-radius: 15px;
@@ -87,4 +87,15 @@ body {
 .socials:hover {
   background-color: hsl(75, 94%, 57%);
   color: hsl(0, 0%, 12%);
+}
+
+.attribution {
+  color: white;
+  font-size: 15px;
+  margin: 20px;
+}
+
+.attribution a {
+  text-decoration: none;
+  color: hsl(75, 94%, 57%);
 }
