@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Source code](https://github.com/leanghok120/Social-Links)
-- Live Site URL: https://socials-link.netlify.app/
+- Live Site URL: [Live Site](https://leanghok-socials.netlify.app/)
 
 ## My process
 
